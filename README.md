@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sdotwc
+- 👋 Hi, I’m @fauzan.zaidan
 - 👀 I’m interested in learning something that i must to do
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on Radio Rodja am
